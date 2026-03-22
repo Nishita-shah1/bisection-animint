@@ -1,0 +1,13 @@
+y	x	label	showSelected1
+130	-1	Iter: 1  mid=4.5  f(mid)=16.25	1
+130	-1	Iter: 2  mid=1.75  f(mid)=-0.9375	2
+130	-1	Iter: 3  mid=3.125  f(mid)=5.7656	3
+130	-1	Iter: 4  mid=2.4375  f(mid)=1.9414	4
+130	-1	Iter: 5  mid=2.0938  f(mid)=0.3838	5
+130	-1	Iter: 6  mid=1.9219  f(mid)=-0.3064	6
+130	-1	Iter: 7  mid=2.0078  f(mid)=0.0313	7
+130	-1	Iter: 8  mid=1.9648  f(mid)=-0.1394	8
+130	-1	Iter: 9  mid=1.9863  f(mid)=-0.0545	9
+130	-1	Iter: 10  mid=1.9971  f(mid)=-0.0117	10
+130	-1	Iter: 11  mid=2.0024  f(mid)=0.0098	11
+130	-1	Iter: 12  mid=1.9998  f(mid)=-0.001	12
